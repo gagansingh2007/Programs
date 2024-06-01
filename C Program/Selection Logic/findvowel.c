@@ -9,3 +9,5 @@ printf("charecter is vowel");
 else
 printf("charecter is constant");
 }
+
+
